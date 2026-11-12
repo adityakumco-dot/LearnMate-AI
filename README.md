@@ -8,7 +8,15 @@
 [🚀 Open LearnMate AI](https://learnmate-ai-tkcfbgjgxiauciohkd8ppt.streamlit.app/)
 
 LearnMate AI is a Streamlit app that creates a personalized learning roadmap using an existing IBM watsonx.ai deployment. Learners enter their education, current skills, career goal, daily study time, and target duration; the app sends those values to the deployed prompt template and displays the generated roadmap.
+---
 
+## 📸 APPLICATION EXECUTION SCREENSHOTS
+
+The following PDF contains four pages of screenshots demonstrating the working LearnMate AI application.
+
+[📄 View Application Screenshots](03_APPLICATION_SCREENSHOTS/LearnMate_AI_Execution_Screenshots.pdf)
+
+---
 ## Features
 
 - Student profile form for education, current skills, career interest, study hours, and learning duration
