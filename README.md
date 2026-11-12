@@ -14,7 +14,7 @@ LearnMate AI is a Streamlit app that creates a personalized learning roadmap usi
 
 The following PDF contains four pages of screenshots demonstrating the working LearnMate AI application.
 
-[📄 View Application Screenshots](03_APPLICATION_SCREENSHOTS/LearnMate_AI_Execution_Screenshots.pdf)
+[📄 View Application Screenshots](03_APPLICATION_SCREENSHOTS/LearnMate%20AI%20-%20Streamlit.pdf)
 
 ---
 ## Features
